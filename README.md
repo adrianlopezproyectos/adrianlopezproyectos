@@ -10,6 +10,8 @@
 
 ## Conecta conmigo:
 
+https://www.linkedin.com/in/adrianlopezproyectos/
+
 ## Languages and Tools:
 ![HTML Icon](./img/html.ico)
 ![HTML Icon](./img/css.ico)
