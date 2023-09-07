@@ -1,16 +1,20 @@
-### Hi there 👋
+# print('Hello World 👋')
+### Me llamo Adrian Lopez
+**Soy estudiante y programador**
 
-<!--
-**adrianlopezproyectos/adrianlopezproyectos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Estudiante de Licenciatura en Sistemas en UNNOBA 🇦🇷
 
-Here are some ideas to get you started:
+🌱 Diseñador grafico, UX/UI y Programador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Analista de datos
+
+## Conecta conmigo:
+
+## Languages and Tools:
+![HTML Icon](./img/html.ico)
+![HTML Icon](./img/css.ico)
+![HTML Icon](./img/sql.png)
+![HTML Icon](./img/python.ico)
+![HTML Icon](./img/git.ico)
+![HTML Icon](./img/c++.png)
+![HTML Icon](./img/figma.ico)
