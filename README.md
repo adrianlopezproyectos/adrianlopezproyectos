@@ -6,8 +6,6 @@
 
 🌱 Diseñador grafico, UX/UI y Programador
 
-💬 Analista de datos
-
 ## Conecta conmigo:
 
 https://www.linkedin.com/in/adrianlopezproyectos/
