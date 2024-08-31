@@ -1,13 +1,15 @@
 # print('Hello World 👋')
-### Me llamo Adrian Lopez
-**Soy estudiante y programador**
+### I'm Adrian
+**I am a student and programmer**
 
-🌱 Estudiante de Licenciatura en Sistemas en UNNOBA 🇦🇷
+🌱 I have intermediate English, currently studying.
+I am studying a degree in Systems and I am a freelance developer of applications.
 
-🌱 Diseñador grafico, UX/UI y Programador
+🌱 I have experience in Backend, app and web development, use of no-code tools and data management.
 
-## Conecta conmigo:
 
+## connect with me:
+adrianlopezproyectosgraficos@gmail.com
 https://www.linkedin.com/in/adrianlopezproyectos/
 
 ## Languages and Tools:
